@@ -7,6 +7,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 ## Principais Scripts
 
+
 1. portalDeComprasPublicas.py
 
 - Realiza requisições à API do Portal de Compras Públicas para extrair informações sobre processos de licitação.
@@ -14,6 +15,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Gera arquivos JSON contendo detalhes de itens, resultados, propostas, lances e empresas participantes.
 
 - Os dados são organizados em diretórios com base na data atual.
+  
 
 2. publinexoAta.py
 
@@ -22,6 +24,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Converte o HTML em um arquivo PDF e salva a versão original em formato HTML.
 
 - Facilita o acesso e o arquivamento de documentos relacionados a atas públicas.
+  
 
 3. publinexoJSON.py
 
@@ -30,6 +33,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Extrai informações relevantes, como itens, propostas, empresas, lances e resultados.
 
 - Gera arquivos JSON contendo os dados estruturados para análise posterior.
+  
 
 4. bncCompras.py
 
@@ -38,6 +42,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Extrai dados de itens, lances, empresas participantes e resultados.
 
 - Armazena os dados em JSON organizados por data e processo licitatório.
+  
 
 5. comprasAmazonas.py
 
@@ -46,6 +51,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Extrai detalhes sobre produtos, lances e empresas concorrentes.
 
 - Gera arquivos JSON contendo os dados organizados para análise posterior.
+  
 
 6. transparenciaVitoriaES.py
 
@@ -54,6 +60,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Coleta informações sobre lotes, itens, participantes e vencedores.
 
 - Gera arquivos JSON contendo os dados estruturados para relatórios e análises.
+  
 
 ## Estrutura de Saída
 
@@ -64,6 +71,7 @@ Os robôs salvam os dados processados em diretórios organizados da seguinte for
 - AtaPDF/: Contém arquivos PDF gerados a partir do conteúdo HTML.
 
 - AtaHTML/: Contém os arquivos HTML baixados e processados.
+  
 
 # Dependências
 
