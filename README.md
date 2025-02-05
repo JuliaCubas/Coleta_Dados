@@ -8,7 +8,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 ## Principais Scripts
 
 
-´´1. portalDeComprasPublicas.py
+1. portalDeComprasPublicas.py
 
 - Realiza requisições à API do Portal de Compras Públicas para extrair informações sobre processos de licitação.
 - Gera arquivos JSON contendo detalhes de itens, resultados, propostas, lances e empresas participantes.
