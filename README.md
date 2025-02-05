@@ -107,5 +107,3 @@ Os robôs salvam os dados processados em diretórios organizados da seguinte for
 Antes de executar os scripts, instale as dependências necessárias:
 
 > pip install -r requirements.txt
-
-
