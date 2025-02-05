@@ -7,7 +7,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 ## Principais Scripts
 
-# 1. portalDeComprasPublicas.py
+1. portalDeComprasPublicas.py
 
 - Realiza requisições à API do Portal de Compras Públicas para extrair informações sobre processos de licitação.
 
@@ -15,7 +15,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 - Os dados são organizados em diretórios com base na data atual.
 
-# 2. publinexoAta.py
+2. publinexoAta.py
 
 - Extrai conteúdo HTML de atas públicas no site Publinexo.
 
@@ -23,7 +23,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 - Facilita o acesso e o arquivamento de documentos relacionados a atas públicas.
 
-# 3. publinexoJSON.py
+3. publinexoJSON.py
 
 - Processa arquivos HTML gerados pelo publinexoAta.py.
 
@@ -31,7 +31,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 - Gera arquivos JSON contendo os dados estruturados para análise posterior.
 
-# 4. bncCompras.py
+4. bncCompras.py
 
 - Coleta informações de licitações no site BNC Compras.
 
@@ -39,7 +39,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 - Armazena os dados em JSON organizados por data e processo licitatório.
 
-# 5. comprasAmazonas.py
+5. comprasAmazonas.py
 
 - Acessa o portal de compras do Amazonas para coletar informações de licitações.
 
@@ -47,7 +47,7 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 
 - Gera arquivos JSON contendo os dados organizados para análise posterior.
 
-# 6. transparenciaVitoriaES.py
+6. transparenciaVitoriaES.py
 
 - Obtém dados da API do portal de transparência de Vitória/ES.
 
