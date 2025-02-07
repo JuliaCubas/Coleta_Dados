@@ -91,6 +91,15 @@ Este repositório contém scripts em Python desenvolvidos para realizar automaç
 - Extrai dados de itens, lances, empresas participantes e resultados.
 - Armazena os dados em JSON organizados por data e processo licitatório.
 
+13.peIntegradoColeta_Manual.py
+
+- Coleta informações de processos licitatórios do portal PE Integrado de Pernambuco.
+- Realiza consultas na API do portal para extrair dados detalhados sobre licitações.
+- Obtém e processa relatórios de Atas, Homologações e Propostas no formato DOCX.
+- Converte documentos para HTML e extrai informações sobre empresas, lances e resultados.
+- Gera arquivos JSON estruturados contendo itens, propostas, empresas participantes e vencedoras.
+- Facilita análises e relatórios detalhados sobre processos licitatórios.
+
 ## Estrutura de Saída
 
 Os robôs salvam os dados processados em diretórios organizados da seguinte forma:
